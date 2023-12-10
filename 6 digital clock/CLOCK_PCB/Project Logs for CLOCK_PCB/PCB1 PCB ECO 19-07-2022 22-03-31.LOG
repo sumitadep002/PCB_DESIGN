@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=osci NewDesignator=*
+Added Pin To Net: NetName=Netatmega328_24 Pin=SW2-2
+Added Pin To Net: NetName=+5V Pin=SW2-3

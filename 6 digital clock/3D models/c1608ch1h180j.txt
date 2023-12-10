@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09032015-135402";"";
+"REFERENCE";"C1608CH1H180J";"";
+"rs_stock_number";"6010283";"";
+"TraceParts.PartTitle";"TDK 0603 (1608M) 18pF Multilayer Ceramic Capacitor MLCC 50V dc ±5% SMD C1608CH1H180J";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/6010283?cm_mmc=en-ds-_-mcad-_-traceparts-_-6010283'";"";
+"SUPPLIER";"TDK";"";
+"DESIGN";"TDK 0603 (1608M) 18pF Multilayer Ceramic Capacitor MLCC 50V dc ±5% SMD C1608CH1H180J";"";
+"TraceParts.InstanceId";"10-09032015-1354024AF4XBPIV9O8BXOBUEWT8Y79W";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TraceParts.PartLanguage";"en";"";

@@ -1,0 +1,17 @@
+Added Component: Designator=J(18_pin_singleraw_header)
+Added Pin To Net: NetName=a Pin=J-1
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=+5V Pin=J-14
+Added Pin To Net: NetName=GND Pin=J-15
+Added Member To Class: ClassName=Sheet1 Member=Component J 18_pin_header

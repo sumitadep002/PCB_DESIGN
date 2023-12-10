@@ -1,0 +1,35 @@
+Added Component: Designator=J1(DIP18)
+Added Component: Designator=J2(DIP18)
+Added Pin To Net: NetName=D1/TX Pin=J1-1
+Added Pin To Net: NetName=D0/RX Pin=J1-2
+Added Pin To Net: NetName=RESET Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=D2 Pin=J1-5
+Added Pin To Net: NetName=D3 Pin=J1-6
+Added Pin To Net: NetName=D4 Pin=J1-7
+Added Pin To Net: NetName=D5 Pin=J1-8
+Added Pin To Net: NetName=D6 Pin=J1-9
+Added Pin To Net: NetName=D7 Pin=J1-10
+Added Pin To Net: NetName=D8 Pin=J1-11
+Added Pin To Net: NetName=D9 Pin=J1-12
+Added Pin To Net: NetName=D10 Pin=J1-13
+Added Pin To Net: NetName=D11/MOSI Pin=J1-14
+Added Pin To Net: NetName=D12/MISO Pin=J1-15
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=RESET Pin=J2-3
+Added Pin To Net: NetName=+5 Pin=J2-4
+Added Pin To Net: NetName=A0 Pin=J2-5
+Added Pin To Net: NetName=A1 Pin=J2-6
+Added Pin To Net: NetName=A2 Pin=J2-7
+Added Pin To Net: NetName=A3 Pin=J2-8
+Added Pin To Net: NetName=A4 Pin=J2-9
+Added Pin To Net: NetName=A5 Pin=J2-10
+Added Pin To Net: NetName=A6 Pin=J2-11
+Added Pin To Net: NetName=A7 Pin=J2-12
+Added Pin To Net: NetName=AREF Pin=J2-13
+Added Pin To Net: NetName=+3V3 Pin=J2-14
+Added Pin To Net: NetName=D13/SCK Pin=J2-15
+Added Member To Class: ClassName=Sheet2 Member=Component J1 HEADER_18_NOS
+Added Member To Class: ClassName=Sheet2 Member=Component J2 HEADER_18_NOS
+Added Member To Class: ClassName=Sheet1 Member=Component  4.7uF

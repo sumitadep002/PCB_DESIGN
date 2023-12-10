@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09032015-123512";"";
+"REFERENCE";"MCR03EZHJ151";"";
+"rs_stock_number";"4010124";"";
+"TraceParts.PartTitle";"Resistor,SMD,1608,150ohm0.1W 5%";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/4010124?cm_mmc=en-ds-_-mcad-_-traceparts-_-4010124'";"";
+"SUPPLIER";"Rohm";"";
+"DESIGN";"Resistor,SMD,1608,150ohm0.1W 5%";"";
+"TraceParts.InstanceId";"10-09032015-123512EIYGKNAEHU15RGA7VBHHHGNIG";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TraceParts.PartLanguage";"en";"";

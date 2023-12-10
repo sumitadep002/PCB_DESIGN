@@ -1,0 +1,20 @@
+Added Component: Designator=P1(3X1 screw terminal)
+Added Component: Designator=P2(3X1 screw terminal)
+Added Component: Designator=P3(3X1 screw terminal)
+Added Component: Designator=P4(3X1 screw terminal)
+Added Pin To Net: NetName=NetK1_1 Pin=P1-1
+Added Pin To Net: NetName=NetK1_2 Pin=P1-2
+Added Pin To Net: NetName=NetK1_3 Pin=P1-3
+Added Pin To Net: NetName=NetK2_1 Pin=P2-1
+Added Pin To Net: NetName=NetK2_2 Pin=P2-2
+Added Pin To Net: NetName=NetK2_3 Pin=P2-3
+Added Pin To Net: NetName=NetK3_1 Pin=P3-1
+Added Pin To Net: NetName=NetK3_2 Pin=P3-2
+Added Pin To Net: NetName=NetK3_3 Pin=P3-3
+Added Pin To Net: NetName=NetK4_1 Pin=P4-1
+Added Pin To Net: NetName=NetK4_2 Pin=P4-2
+Added Pin To Net: NetName=NetK4_3 Pin=P4-3
+Added Member To Class: ClassName=Sheet1 Member=Component P1 through hole screw terminal
+Added Member To Class: ClassName=Sheet1 Member=Component P2 through hole screw terminal
+Added Member To Class: ClassName=Sheet1 Member=Component P3 through hole screw terminal
+Added Member To Class: ClassName=Sheet1 Member=Component P4 through hole screw terminal

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-21012020-080514";"";
+"REFERENCE";"MMBT3904";"";
+"TraceParts.PartTitle";"Transistor BJT NPN, SOT23 (3-Pin) - MMBT2222A, MMBT3904";"";
+"TraceParts.InstanceId";"33-21012020-080514QMEXXJUXXXHYK5ZLXLI7B1RF";"";
+"DESIGN";"Transistor BJT NPN, SOT23 (3-Pin) MMBT3904";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ON Semiconductor";"";
+"TraceParts.PartVersion";"1.1.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ON_SEMICONDUCTOR:33-21012020-080514";"";

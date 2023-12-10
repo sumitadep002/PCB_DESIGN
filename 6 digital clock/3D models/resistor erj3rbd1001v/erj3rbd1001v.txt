@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-02032022-059201";"";
+"REFERENCE";"ERJ3RBD1001V";"";
+"TraceParts.PartTitle";"Panasonic 1kΩ 0603 (1608M) Thick Film SMD Resistor ±0.5% 0.1W - ERJ3RBD1001V";"";
+"TraceParts.InstanceId";"90-02032022-0592012N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Panasonic";"";
+"DESIGN";"Panasonic 1kΩ 0603 (1608M) Thick Film SMD Resistor ±0.5% 0.1W - ERJ3RBD1001V";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.PartLanguage";"en";"";

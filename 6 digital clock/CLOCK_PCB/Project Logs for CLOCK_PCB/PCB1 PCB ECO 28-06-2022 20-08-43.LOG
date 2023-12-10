@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5V Pin=R5-2
+Removed Pin From Net: NetName=+5V Pin=R6-2
+Removed Member From Class: ClassName=Sheet1 Member=L5
+Removed Member From Class: ClassName=Sheet1 Member=L6
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6

@@ -1,0 +1,27 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C2 Old Footprint=TANTALUM CAP 7343 New Footprint=tantalum cap 7343
+Change Physical Footprint: Designator=C3 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C4 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C5 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C6 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C7 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C8 Old Footprint=TANTALUM CAP 7343 New Footprint=tantalum cap 7343
+Change Physical Footprint: Designator=C9 Old Footprint=CAPACITOR0805 New Footprint=Capacitor0805
+Change Physical Footprint: Designator=C10 Old Footprint=TANTALUM CAP 7343 New Footprint=tantalum cap 7343
+Change Physical Footprint: Designator=D1 Old Footprint=SHOTKEY DIODE SOD962 New Footprint=shotkey diode sod962
+Change Physical Footprint: Designator=J1 Old Footprint=DIP18 New Footprint=DIP18
+Change Physical Footprint: Designator=J2 Old Footprint=DIP18 New Footprint=DIP18
+Change Physical Footprint: Designator=J4 Old Footprint=MINI B USB New Footprint=Mini B usb
+Change Physical Footprint: Designator=J5 Old Footprint=DIP6 New Footprint=DIP6
+Change Physical Footprint: Designator=LED1 Old Footprint=LED 0805 New Footprint=LED 0805
+Change Physical Footprint: Designator=LED2 Old Footprint=LED 0805 New Footprint=LED 0805
+Change Physical Footprint: Designator=LED3 Old Footprint=LED 0805 New Footprint=LED 0805
+Change Physical Footprint: Designator=LED4 Old Footprint=LED 0805 New Footprint=LED 0805
+Change Physical Footprint: Designator=RES1 Old Footprint=QUAD 4 RES ARRAY New Footprint=Quad 4 res array
+Change Physical Footprint: Designator=RES2 Old Footprint=QUAD 4 RES ARRAY New Footprint=Quad 4 res array
+Change Physical Footprint: Designator=SW1 Old Footprint=SWITCH New Footprint=switch
+Change Physical Footprint: Designator=U1 Old Footprint=QUAD32 New Footprint=Quad32
+Change Physical Footprint: Designator=U2 Old Footprint=QUAD28 FTDI New Footprint=Quad28 FTDI
+Change Physical Footprint: Designator=U3 Old Footprint=SOT223-4 New Footprint=SOT223-4
+Change Physical Footprint: Designator=W1 Old Footprint=SWITCH New Footprint=switch
+Change Physical Footprint: Designator=Y1 Old Footprint=TH XT New Footprint=TH XT

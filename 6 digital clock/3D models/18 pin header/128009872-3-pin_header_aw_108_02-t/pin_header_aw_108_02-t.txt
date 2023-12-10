@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16062010-084438";"";
+"REFERENCE";"AW 108/02-T";"";
+"TraceParts.PartTitle";"Pin header, pitch 2.54mm, straight, single row, 2 contacts, plating : Ni, Au, pin length = 12.4mm (A= 7.9, B=3.0)";"";
+"TraceParts.InstanceId";"10-16062010-084438EYEQD4D8FLNOF58A7AQ9G3A2T";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"DESIGN";"Pin header, pitch 2.54mm, straight, single row, 2 contacts, plating : Ni, Au, pin length = 12.4mm (A= 7.9, B=3.0)";"";
+"TraceParts.PartVersion";"1.2.8";"";
+"TraceParts.PartLanguage";"en";"";

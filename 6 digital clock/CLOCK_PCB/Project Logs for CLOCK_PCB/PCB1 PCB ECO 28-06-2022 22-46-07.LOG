@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=a Pin=J-1
+Removed Pin From Net: NetName=b Pin=J-2
+Removed Pin From Net: NetName=c Pin=J-3
+Removed Pin From Net: NetName=d Pin=J-4
+Removed Pin From Net: NetName=e Pin=J-5
+Removed Pin From Net: NetName=f Pin=J-6
+Removed Pin From Net: NetName=g Pin=J-7
+Added Component: Designator=R7(Resistor_ERJUP3_1K)
+Added Pin To Net: NetName=a Pin=R7-2
+Added Pin To Net: NetName=a_mux Pin=J-1
+Added Pin To Net: NetName=a_mux Pin=R7-1
+Added Net: Name=a_mux
+Added Pin To Net: NetName=b_mux Pin=J-2
+Added Net: Name=b_mux
+Added Pin To Net: NetName=c_mux Pin=J-3
+Added Net: Name=c_mux
+Added Pin To Net: NetName=d_mux Pin=J-4
+Added Net: Name=d_mux
+Added Pin To Net: NetName=e_mux Pin=J-5
+Added Net: Name=e_mux
+Added Pin To Net: NetName=f_mux Pin=J-6
+Added Net: Name=f_mux
+Added Pin To Net: NetName=g_mux Pin=J-7
+Added Net: Name=g_mux
+Added Member To Class: ClassName=Sheet1 Member=Component R7 resistor_1k_smd

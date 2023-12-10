@@ -1,0 +1,14 @@
+Added Member To Class: ClassName=Sheet1 Member=Component C2 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 4.7uF
+Added Member To Class: ClassName=Sheet1 Member=Component J4 USB_B_MINI
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 RED_RX
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 GREEN_TX
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 L_AMBER
+Added Member To Class: ClassName=Sheet1 Member=Component LED4 BLUE
+Added Member To Class: ClassName=Sheet1 Member=Component RES1 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component RES2 Component_1
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 RESET
+Added Member To Class: ClassName=Sheet1 Member=Component U1 atmega168 20au
+Added Member To Class: ClassName=Sheet1 Member=Component U2 FT232RL
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 16MHz

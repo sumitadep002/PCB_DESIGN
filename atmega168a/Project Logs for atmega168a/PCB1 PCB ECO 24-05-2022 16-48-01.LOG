@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 Pin=C2-1
+Removed Pin From Net: NetName=VUSB Pin=C8-1
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Member From Class: ClassName=Sheet1 Member=C8
+Change Component Comment : Designator=C2 Old Comment=4.7uF New Comment=4.7u
+Added Component: Designator=*(tantalum cap 7343)
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=AREF Pin=W1-1
+Added Pin To Net: NetName=+5 Pin=W1-2
+Added Member To Class: ClassName=Sheet1 Member=Component * Component_1

@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.2";"";
+"SUPPLIER";"Phoenix Contact";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-14042011-097391";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Phoenix Contact PT 1.5/ 3-3.5-H Non-Fused Terminal Block, 3 Way/Pole, Screw Terminals, 26 → 16 AWG Through Hole,";"";
+"TraceParts.InstanceId";"10-14042011-09739198IQPE0KORP1WSK73HPN07ZAQ";"";
+"TraceParts.PartTitle";"Phoenix Contact PT 1.5/ 3-3.5-H Non-Fused Terminal Block, 3 Way/Pole, Screw Terminals, 26 → 16 AWG Through Hole,";"";
+"REFERENCE";"1984620";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/6488513?cm_mmc=en-ds-_-mcad-_-traceparts-_-6488513'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"6488513";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-14042011-097391";"";

@@ -1,0 +1,10 @@
+Change Physical Footprint: Designator=C1 Old Footprint=FKV(K16) New Footprint=FKV(K16)
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2012X145N New Footprint=CAPC2012X145N
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC2012X145N New Footprint=CAPC2012X145N
+Change Physical Footprint: Designator=C4 Old Footprint=CAPC2012X145N New Footprint=CAPC2012X145N
+Change Physical Footprint: Designator=C5 Old Footprint=FKV(K16) New Footprint=FKV(K16)
+Change Physical Footprint: Designator=DIODE Old Footprint=DIOM5336X244N New Footprint=DIOM5336X244N
+Change Physical Footprint: Designator=L1 Old Footprint=INDPM110100X400N New Footprint=INDPM110100X400N
+Change Physical Footprint: Designator=Q1 Old Footprint=TO-263-5 New Footprint=TO-263-5
+Change Physical Footprint: Designator=R1 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC2012X65N New Footprint=RESC2012X65N

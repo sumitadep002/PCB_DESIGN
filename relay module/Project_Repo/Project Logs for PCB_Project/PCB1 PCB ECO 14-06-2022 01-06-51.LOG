@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=IN1 Pin=Q1-2
+Removed Pin From Net: NetName=IN2 Pin=Q2-2
+Removed Pin From Net: NetName=IN3 Pin=Q3-2
+Removed Pin From Net: NetName=IN4 Pin=Q4-2
+Added Component: Designator=R9(Resistor-RCC1206 e3)
+Added Component: Designator=R10(Resistor-RCC1206 e3)
+Added Component: Designator=R11(Resistor-RCC1206 e3)
+Added Component: Designator=R12(Resistor-RCC1206 e3)
+Added Pin To Net: NetName=IN1 Pin=R9-1
+Added Pin To Net: NetName=IN2 Pin=R10-1
+Added Pin To Net: NetName=IN3 Pin=R11-1
+Added Pin To Net: NetName=IN4 Pin=R12-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R9-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R10-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R11-2
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R12-2
+Added Net: Name=NetQ4_2
+Added Member To Class: ClassName=Sheet1 Member=Component R2 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R9 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R10 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R11 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R12 resistor

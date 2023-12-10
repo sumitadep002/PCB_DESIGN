@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=Net*_1 Pin=c2-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=atmega328-9
+Added Pin To Net: NetName=Net*_2 Pin=c1-1
+Added Net: Name=Net*_2

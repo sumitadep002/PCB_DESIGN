@@ -1,0 +1,6 @@
+Remove Pin=J1-1 From Net=5V
+Remove Pin=J1-2 From Net=GND
+Remove Pin=J1-3 From Net=IN1
+Remove Pin=J1-4 From Net=IN2
+Remove Pin=J1-5 From Net=IN3
+Remove Pin=J1-6 From Net=IN4

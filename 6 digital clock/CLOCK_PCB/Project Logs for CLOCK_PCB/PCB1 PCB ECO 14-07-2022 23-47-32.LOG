@@ -1,0 +1,35 @@
+Added Component: Designator=SW1(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW2(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW3(TE_1825910-2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825910-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=Netatmega328_23 Pin=atmega328-23
+Added Pin To Net: NetName=Netatmega328_23 Pin=SW1-2
+Added Net: Name=Netatmega328_23
+Added Pin To Net: NetName=Netatmega328_24 Pin=atmega328-24
+Added Pin To Net: NetName=Netatmega328_24 Pin=SW2-1
+Added Net: Name=Netatmega328_24
+Added Pin To Net: NetName=Netatmega328_25 Pin=atmega328-25
+Added Pin To Net: NetName=Netatmega328_25 Pin=SW3-1
+Added Net: Name=Netatmega328_25
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 1825910-2
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 1825910-2
+Added Member To Class: ClassName=Sheet1 Member=Component SW3 1825910-2

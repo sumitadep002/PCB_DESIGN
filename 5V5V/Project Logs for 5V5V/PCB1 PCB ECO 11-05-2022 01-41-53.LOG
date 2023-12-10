@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net5_1 Pin=DIODE-1
+Removed Pin From Net: NetName=Net5_1 Pin=L1-1
+Removed Pin From Net: NetName=Net5_1 Pin=Q1-3
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Added Pin To Net: NetName=NetDIODE_1 Pin=DIODE-1
+Added Pin To Net: NetName=NetDIODE_1 Pin=L1-1
+Added Pin To Net: NetName=NetDIODE_1 Pin=Q1-3
+Added Net: Name=NetDIODE_1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 3.3k

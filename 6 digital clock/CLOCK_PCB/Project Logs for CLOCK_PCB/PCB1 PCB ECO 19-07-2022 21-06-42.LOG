@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=a_com Pin=atmega328-4
+Removed Pin From Net: NetName=b_com Pin=atmega328-5
+Removed Pin From Net: NetName=c_com Pin=atmega328-6
+Removed Pin From Net: NetName=d_com Pin=atmega328-11
+Removed Pin From Net: NetName=e_com Pin=atmega328-12
+Removed Pin From Net: NetName=f_com Pin=atmega328-13
+Removed Pin From Net: NetName=g_com Pin=atmega328-14
+Removed Pin From Net: NetName=D1 Pin=U1-2
+Removed Pin From Net: NetName=+5V Pin=U1-3
+Removed Pin From Net: NetName=D2 Pin=U2-2
+Removed Pin From Net: NetName=+5V Pin=U2-3
+Removed Pin From Net: NetName=D3 Pin=U3-2
+Removed Pin From Net: NetName=+5V Pin=U3-3
+Removed Pin From Net: NetName=D4 Pin=U4-2
+Removed Pin From Net: NetName=+5V Pin=U4-3
+Removed Member From Class: ClassName=Sheet1 Member=R14
+Removed Member From Class: ClassName=Sheet1 Member=R15
+Removed Member From Class: ClassName=Sheet1 Member=R17
+Removed Member From Class: ClassName=Sheet1 Member=R116
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Removed Member From Class: ClassName=Sheet1 Member=U4
+Change Component Designator: OldDesignator=osci NewDesignator=*
+Added Component: Designator=J5(7seg)
+Added Component: Designator=J6(7seg)
+Added Component: Designator=L3(led_LSM0805 Series_red)
+Added Component: Designator=L4(led_LSM0805 Series_red)
+Added Component: Designator=R3(Resistor_150_smd)
+Added Component: Designator=R4(Resistor_150_smd)
+Added Pin To Net: NetName=a_com Pin=atmega328-2
+Added Pin To Net: NetName=b_com Pin=atmega328-3
+Added Pin To Net: NetName=c_com Pin=atmega328-4
+Added Pin To Net: NetName=d_com Pin=atmega328-5
+Added Pin To Net: NetName=e_com Pin=atmega328-6
+Added Pin To Net: NetName=f_com Pin=atmega328-11
+Added Pin To Net: NetName=g_com Pin=atmega328-12
+Added Pin To Net: NetName=D1 Pin=atmega328-14
+Added Pin To Net: NetName=D2 Pin=atmega328-15
+Added Pin To Net: NetName=D3 Pin=atmega328-16
+Added Pin To Net: NetName=D4 Pin=atmega328-17
+Added Pin To Net: NetName=g Pin=J5-1
+Added Pin To Net: NetName=f Pin=J5-2
+Added Pin To Net: NetName=a Pin=J5-4
+Added Pin To Net: NetName=b Pin=J5-5
+Added Pin To Net: NetName=c Pin=J5-7
+Added Pin To Net: NetName=d Pin=J5-9
+Added Pin To Net: NetName=e Pin=J5-10
+Added Pin To Net: NetName=g Pin=J6-1
+Added Pin To Net: NetName=f Pin=J6-2
+Added Pin To Net: NetName=a Pin=J6-4
+Added Pin To Net: NetName=b Pin=J6-5
+Added Pin To Net: NetName=c Pin=J6-7
+Added Pin To Net: NetName=d Pin=J6-9
+Added Pin To Net: NetName=e Pin=J6-10
+Added Pin To Net: NetName=GND Pin=L3-K
+Added Pin To Net: NetName=GND Pin=L4-K
+Added Pin To Net: NetName=Netatmega328_23 Pin=SW1-1
+Added Pin To Net: NetName=Netatmega328_25 Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-3
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=D5 Pin=atmega328-18
+Added Pin To Net: NetName=D5 Pin=J5-8
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=atmega328-19
+Added Pin To Net: NetName=D6 Pin=J6-8
+Added Net: Name=D6
+Added Pin To Net: NetName=led Pin=atmega328-13
+Added Pin To Net: NetName=led Pin=R1-2
+Added Pin To Net: NetName=led Pin=R2-2
+Added Pin To Net: NetName=led Pin=R3-2
+Added Pin To Net: NetName=led Pin=R4-2
+Added Net: Name=led
+Added Pin To Net: NetName=NetL3_A Pin=L3-A
+Added Pin To Net: NetName=NetL3_A Pin=R3-1
+Added Net: Name=NetL3_A
+Added Pin To Net: NetName=NetL4_A Pin=L4-A
+Added Pin To Net: NetName=NetL4_A Pin=R4-1
+Added Net: Name=NetL4_A
+Added Member To Class: ClassName=Sheet1 Member=Component J5 7_seg_display_comm_cath
+Added Member To Class: ClassName=Sheet1 Member=Component J6 7_seg_display_comm_cath
+Added Member To Class: ClassName=Sheet1 Member=Component L3 RED_led
+Added Member To Class: ClassName=Sheet1 Member=Component L4 RED_led
+Added Member To Class: ClassName=Sheet1 Member=Component R3 resistor_150_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R4 resistor_150_smd

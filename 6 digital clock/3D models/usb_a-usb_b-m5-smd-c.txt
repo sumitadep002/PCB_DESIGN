@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-03092010-096192";"";
+"REFERENCE";"A-USB B-M5-SMD-C";"";
+"TraceParts.PartTitle";"USB, style B-Mini, 5 contacts, SMD";"";
+"TraceParts.InstanceId";"10-03092010-0961929UKZSB1D6ZWZLAYQY3CFUY5O2";"";
+"DESIGN";"USB, style B-Mini, 5 contacts, SMD";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:10-03092010-096192";"";

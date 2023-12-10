@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=L1-K
+Added Pin To Net: NetName=GND Pin=L2-K
+Added Pin To Net: NetName=GND Pin=L3-K
+Added Pin To Net: NetName=GND Pin=L4-K
+Added Pin To Net: NetName=NetL1_A Pin=L1-A
+Added Pin To Net: NetName=NetL1_A Pin=R1-1
+Added Net: Name=NetL1_A
+Added Pin To Net: NetName=NetL2_A Pin=L2-A
+Added Pin To Net: NetName=NetL2_A Pin=R2-1
+Added Net: Name=NetL2_A
+Added Pin To Net: NetName=NetL3_A Pin=L3-A
+Added Pin To Net: NetName=NetL3_A Pin=R3-1
+Added Net: Name=NetL3_A
+Added Pin To Net: NetName=NetL4_A Pin=L4-A
+Added Pin To Net: NetName=NetL4_A Pin=R4-1
+Added Net: Name=NetL4_A

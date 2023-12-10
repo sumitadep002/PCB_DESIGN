@@ -1,0 +1,172 @@
+Added Component: Designator=D1(Diode-1N4007)
+Added Component: Designator=D2(Diode-1N4007)
+Added Component: Designator=D3(Diode-1N4007)
+Added Component: Designator=D4(Diode-1N4007)
+Added Component: Designator=J1(6X1 pin header - duplicate)
+Added Component: Designator=K1(MODULE5B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K2(MODULE5B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K3(MODULE5B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K4(MODULE5B)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE5B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LSM0805 Series green)
+Added Component: Designator=LED2(LSM0805 Series green)
+Added Component: Designator=LED3(LSM0805 Series green)
+Added Component: Designator=LED4(LSM0805 Series green)
+Added Component: Designator=Q1(transistor BC547 RCC1206 e3)
+Added Component: Designator=Q2(transistor BC547 RCC1206 e3)
+Added Component: Designator=Q3(transistor BC547 RCC1206 e3)
+Added Component: Designator=Q4(transistor BC547 RCC1206 e3)
+Added Component: Designator=R1(Resistor-RCC1206 e3)
+Added Component: Designator=R2(Resistor-RCC1206 e3)
+Added Component: Designator=R3(Resistor-RCC1206 e3)
+Added Component: Designator=R4(Resistor-RCC1206 e3)
+Added Component: Designator=R5(Resistor-RCC1206 e3)
+Added Component: Designator=R6(Resistor-RCC1206 e3)
+Added Component: Designator=R7(Resistor-RCC1206 e3)
+Added Component: Designator=R8(Resistor-RCC1206 e3)
+Added Component: Designator=R9(Resistor-RCC1206 e3)
+Added Component: Designator=R10(Resistor-RCC1206 e3)
+Added Component: Designator=R11(Resistor-RCC1206 e3)
+Added Component: Designator=R12(Resistor-RCC1206 e3)
+Added Component: Designator=REL1(LSM0805452V-Green)
+Added Component: Designator=REL2(LSM0805452V-Green)
+Added Component: Designator=REL3(LSM0805452V-Green)
+Added Component: Designator=REL5(LSM0805452V-Green)
+Added Pin To Net: NetName=5V Pin=D1-K
+Added Pin To Net: NetName=5V Pin=D2-K
+Added Pin To Net: NetName=5V Pin=D3-K
+Added Pin To Net: NetName=5V Pin=D4-K
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=IN1 Pin=J1-3
+Added Pin To Net: NetName=IN2 Pin=J1-4
+Added Pin To Net: NetName=IN3 Pin=J1-5
+Added Pin To Net: NetName=IN4 Pin=J1-6
+Added Pin To Net: NetName=5V Pin=K1-4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=5V Pin=K2-4
+Added Pin To Net: NetName=NetK2_5 Pin=K2-5
+Added Pin To Net: NetName=5V Pin=K3-4
+Added Pin To Net: NetName=NetK3_5 Pin=K3-5
+Added Pin To Net: NetName=5V Pin=K4-4
+Added Pin To Net: NetName=NetK4_5 Pin=K4-5
+Added Pin To Net: NetName=5V Pin=LED1-A
+Added Pin To Net: NetName=5V Pin=LED2-A
+Added Pin To Net: NetName=5V Pin=LED3-A
+Added Pin To Net: NetName=5V Pin=LED4-A
+Added Pin To Net: NetName=NetK1_5 Pin=Q1-1
+Added Pin To Net: NetName=IN1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetK2_5 Pin=Q2-1
+Added Pin To Net: NetName=IN2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetK3_5 Pin=Q3-1
+Added Pin To Net: NetName=IN3 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-3
+Added Pin To Net: NetName=NetK4_5 Pin=Q4-1
+Added Pin To Net: NetName=IN4 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetK1_5 Pin=R2-2
+Added Pin To Net: NetName=NetK1_5 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetK2_5 Pin=R5-2
+Added Pin To Net: NetName=NetK2_5 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetK3_5 Pin=R8-2
+Added Pin To Net: NetName=NetK3_5 Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetK4_5 Pin=R11-2
+Added Pin To Net: NetName=NetK4_5 Pin=R12-2
+Added Pin To Net: NetName=5V Pin=REL1-A
+Added Pin To Net: NetName=5V Pin=REL2-A
+Added Pin To Net: NetName=5V Pin=REL3-A
+Added Pin To Net: NetName=5V Pin=REL5-A
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R3-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R6-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R9-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R12-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-K
+Added Pin To Net: NetName=NetLED1_K Pin=R1-1
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-K
+Added Pin To Net: NetName=NetLED2_K Pin=R4-1
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-K
+Added Pin To Net: NetName=NetLED3_K Pin=R7-1
+Added Net: Name=NetLED3_K
+Added Pin To Net: NetName=NetLED4_K Pin=LED4-K
+Added Pin To Net: NetName=NetLED4_K Pin=R10-1
+Added Net: Name=NetLED4_K
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=REL1-K
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=REL2-K
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=REL3-K
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=REL5-K
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component J1 6X1 header
+Added Member To Class: ClassName=Sheet1 Member=Component K1 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component K2 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component K3 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component K4 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 LED_RED_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 LED_RED_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component LED3 LED_RED_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component LED4 LED_RED_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component Q1
+Added Member To Class: ClassName=Sheet1 Member=Component Q2
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 Q1
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 Q1
+Added Member To Class: ClassName=Sheet1 Member=Component R1 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R2 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R3 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R4 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R5 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R6 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R7 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R8 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R9 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R10 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R11 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R12 resistor
+Added Member To Class: ClassName=Sheet1 Member=Component REL1 LED_GREEN_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component REL2 LED_GREEN_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component REL3 LED_GREEN_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component REL5 LED_GREEN_SMD

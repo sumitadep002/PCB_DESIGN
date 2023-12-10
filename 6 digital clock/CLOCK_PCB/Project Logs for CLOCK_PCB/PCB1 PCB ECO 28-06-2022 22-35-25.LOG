@@ -1,0 +1,28 @@
+Added Component: Designator=R7(Resistor_ERJUP3_1K)
+Added Component: Designator=R8(Resistor_ERJUP3_1K)
+Added Component: Designator=R9(Resistor_ERJUP3_1K)
+Added Component: Designator=R10(Resistor_ERJUP3_1K)
+Added Component: Designator=R11(Resistor_ERJUP3_1K)
+Added Component: Designator=R12(Resistor_ERJUP3_1K)
+Added Component: Designator=R13(Resistor_ERJUP3_1K)
+Added Pin To Net: NetName=a Pin=R7-1
+Added Pin To Net: NetName=a Pin=R7-2
+Added Pin To Net: NetName=b Pin=R8-1
+Added Pin To Net: NetName=b Pin=R8-2
+Added Pin To Net: NetName=c Pin=R9-1
+Added Pin To Net: NetName=c Pin=R9-2
+Added Pin To Net: NetName=d Pin=R10-1
+Added Pin To Net: NetName=d Pin=R10-2
+Added Pin To Net: NetName=e Pin=R11-1
+Added Pin To Net: NetName=e Pin=R11-2
+Added Pin To Net: NetName=g Pin=R12-1
+Added Pin To Net: NetName=f Pin=R12-2
+Added Pin To Net: NetName=f Pin=R13-1
+Added Pin To Net: NetName=g Pin=R13-2
+Added Member To Class: ClassName=Sheet1 Member=Component R7 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R8 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R9 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R10 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R11 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R12 resistor_1k_smd
+Added Member To Class: ClassName=Sheet1 Member=Component R13 resistor_1k_smd
