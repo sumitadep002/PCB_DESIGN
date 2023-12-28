@@ -8,7 +8,7 @@
 Sadly No Image
 
 ## Project 4: Relay Module
-![3D Model](Relay_Module/images/3D%20model.png)
+![3D Model](Relay_Module/images/3D_model.png)
 
 
 ## Tool Used
